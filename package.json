@@ -1,0 +1,27 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_-00042424-",
+  "version": "1.0.0",
+  "description": "API REST de Cuentas Bancarias",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G4lvez11/Parcial2_PW_SEC01_C2_2025_-00042424-.git"
+  },
+  "keywords": ["express", "api", "rest", "cuentas"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G4lvez11/Parcial2_PW_SEC01_C2_2025_-00042424-/issues"
+  },
+  "homepage": "https://github.com/G4lvez11/Parcial2_PW_SEC01_C2_2025_-00042424-#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
